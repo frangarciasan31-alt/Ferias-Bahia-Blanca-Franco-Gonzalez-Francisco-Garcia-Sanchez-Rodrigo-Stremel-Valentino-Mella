@@ -16,4 +16,7 @@ ______       _     _          ______ _
 
 **Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella**
 
-**VAYA A ISSUES PARA VER EL PROYECTO :)**
+**VAYA A ISSUES PARA VER EL PROYECTO :) 
+                 o  
+            dele click al link**
+https://github.com/frangarciasan31-alt/Ferias-Bahia-Blanca-Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella/issues/4
