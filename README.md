@@ -14,7 +14,13 @@ ______       _     _          ______ _
 \____/ \__,_|_| |_|_|\__,_|   \____/|_|\__,_|_| |_|\___\__,_|
 ```
 
-**Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella**
+**[INTEGRANTES DEL PROYECTO]**
+
+**[Franco-Gonzalez]**
+**[Francisco-Garcia-Sanchez]**
+**[Rodrigo-Stremel]**
+**[Valentino-Mella]**
+
 
 **VAYA A ISSUES PARA VER EL PROYECTO :)**
 
