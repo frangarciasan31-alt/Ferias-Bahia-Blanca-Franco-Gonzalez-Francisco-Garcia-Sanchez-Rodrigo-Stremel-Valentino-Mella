@@ -16,7 +16,22 @@ ______       _     _          ______ _
 
 **Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella**
 
-**VAYA A ISSUES PARA VER EL PROYECTO :) 
-                 o  
-            dele click al link**
-https://github.com/frangarciasan31-alt/Ferias-Bahia-Blanca-Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella/issues/4
+**VAYA A ISSUES PARA VER EL PROYECTO :)**
+
+Tambien puede verlos directamente desde los **links**
+de aca abajo
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+
+[TRABAJO]
+//https://github.com/frangarciasan31-alt/Ferias-Bahia-Blanca-Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella/issues/4
+
+[PANEL DE MUNICIPIO]
+//https://github.com/frangarciasan31-alt/Ferias-Bahia-Blanca-Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella/issues/3
+
+[PORTAL DE ORGANIZADOR, FERIANTE Y EMPRENDEDOR]
+//https://github.com/frangarciasan31-alt/Ferias-Bahia-Blanca-Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella/issues/2
+
+[PORTAL DE CIUDADANO (consumidor)]
+//https://github.com/frangarciasan31-alt/Ferias-Bahia-Blanca-Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella/issues/1
