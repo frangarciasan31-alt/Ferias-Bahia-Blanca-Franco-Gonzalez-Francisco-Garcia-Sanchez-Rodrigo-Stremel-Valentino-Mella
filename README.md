@@ -32,7 +32,6 @@ Tambien puede verlos directamente desde los **links**
 de aca abajo
 
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////
 
 [TRABAJO]
 //https://github.com/frangarciasan31-alt/Ferias-Bahia-Blanca-Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella/issues/4
