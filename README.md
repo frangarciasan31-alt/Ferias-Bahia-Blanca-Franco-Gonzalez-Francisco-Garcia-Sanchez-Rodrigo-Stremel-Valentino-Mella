@@ -45,6 +45,9 @@ de aca abajo
 [PORTAL DE CIUDADANO (consumidor)]
 //https://github.com/frangarciasan31-alt/Ferias-Bahia-Blanca-Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella/issues/1
 
+[DIAGRAMA DE CONTEXTO y CASOS DE USO]
+//https://github.com/frangarciasan31-alt/Ferias-Bahia-Blanca-Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella/issues/6#issue-6385792121
+
 [GLOSARIO y HARDWARE]
 //https://github.com/frangarciasan31-alt/Ferias-Bahia-Blanca-Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella/issues/4#issuecomment-6902167799
 
