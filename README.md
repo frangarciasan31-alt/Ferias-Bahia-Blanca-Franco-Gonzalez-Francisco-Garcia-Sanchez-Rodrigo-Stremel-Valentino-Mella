@@ -51,6 +51,9 @@ de aca abajo
 [GLOSARIO y HARDWARE]
 //https://github.com/frangarciasan31-alt/Ferias-Bahia-Blanca-Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella/issues/4#issuecomment-6902167799
 
+[DESCRIPCION DE CASOS DE USO]
+//https://github.com/frangarciasan31-alt/Ferias-Bahia-Blanca-Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella/issues/9#issue-6411517666
+
 [ENTREVISTAS HECHAS A FERIANTES]
 //https://github.com/frangarciasan31-alt/Ferias-Bahia-Blanca-Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella/issues/7#issue-6386521914
 //https://github.com/frangarciasan31-alt/Ferias-Bahia-Blanca-Franco-Gonzalez-Francisco-Garcia-Sanchez-Rodrigo-Stremel-Valentino-Mella/issues/8#issue-6395657053
